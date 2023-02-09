@@ -1,2 +1,2 @@
-#!/bin/bash 
-ln -s /boot/ls__ls__
+#!/boot/bash
+file /tmp/iamafile_
